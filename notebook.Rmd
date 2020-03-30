@@ -2,7 +2,4 @@
 title: 'NOTEBOOK'
 output: html_document
 ---
-# 2020-03-29
-```{r child = './entries/2020-03-29.Rmd'}
-```
 
