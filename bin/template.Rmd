@@ -1,6 +1,6 @@
 ---
 date: "Last modified `r format(Sys.time(), '%Y-%m-%D')`"
-title: ""
+title: "YYYY-MM-DD"
 subtitle: ""
 tags: []
 output: html_document
